@@ -1,0 +1,110 @@
+{
+    "products":[
+        {
+            "id": "111",
+            "name": "Chess Clock",
+            "description": "DgT 300 Digital Chess Clock - FIDE Approved",
+            "price": 7000,
+            "color": "#33505a",
+            "image": "clock.png"   ,
+            "fulldescription": "DGT 3000 Abstract Digital Chess Clock (Multicolour, 130 x 30 mm) for 4 years and up"    
+            
+        },
+        {
+            "id": "112",
+            "name": "Chess Board",
+            "description": "DGT Smart  Computer Chess Board ",
+            "price": 40000,
+            "color": "#33505a",
+            "image": "chess.png" ,
+            "fulldescription": "BCBESTCHESS Handcrafted Rosewood Unique Chess Board Set Foldable Secure Storage for Magnetic Pieces with Extra Queens Chess Set for Kids and Adults (14 x 14 Inches, Brown) WOODEN STRONG MAGNETIC CHESS:- Chess and chess boards are made of wood with polished surfaces and are very smooth with strong magnetism embedded. "
+        },
+        {
+            "id": "113",
+            "name": "Lenovo Laptop",
+            "description": "Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen ",
+            "price": 80000,
+            "color": "#33505a",
+            "image": "laptop.png",
+            "fulldescription": "Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 15.6' (39.62cm) FHD IPS Gaming Laptop (8GB/512GB SSD/4GB NVIDIA GTX 1650/120Hz/Win 11/Backlit/3months Game Pass/Shadow Black/2.25Kg), 82K10198IN"
+        },
+        {
+            "id": "114",
+            "name": "Zebranoics Headphones",
+            "description": "ZEBRONICS Zeb-Bang Wireless Bluetooth  ",
+            "price": 3000,
+            "color": "#33505a",
+            "image": "headphone.png" ,"fulldescription":"ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible(Black)"
+        },
+        {
+            "id": "115",
+            "name": "Iphone 13",
+            "description": "Apple Iphone 13th generation",
+            "price": 70000,
+            "color": "#33505a",
+            "image": "iphone13.png" ,"fulldescription":"Apple iPhone 13 (128GB) - (Product) RED Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording"
+        },
+        {
+            "id": "116",
+            "name": "Boat earbud",
+            "description": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic",
+            "price": 2000,
+            "color": "#33505a",
+            "image": "boat.png"
+            ,"fulldescription": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic, 42H Playtime, Beast Mode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge IWP, IPX4 Water Resistance, Smooth Touch Controls(Bold Black)"
+        },
+        {
+            "id": "117",
+            "name": "Tribit speakers",
+            "description": "Tribit XSound Go 16W 5.0 Bluetooth Speaker with Loud Sound",
+            "price": 1700,
+            "color": "#33505a",
+            "image": "speaker.png"
+            ,"fulldescription": "Tribit XSound Go 16W 5.0 Bluetooth Speaker with Loud Sound & Rich Bass, 24H Playtime, IPX7 Waterproof, Wireless Stereo Pairing, Type-C, Portable Wireless Speaker for Home, Outdoor, Travel (Black)"
+        },
+        {
+            "id": "118",
+            "name": "Nike sneakers",
+            "description": "Nike Mens Downshifter 12-Men Sneaker",
+            "price": 4500,
+            "color": "#33505a",
+            "image": "nike.png","fulldescription":"Nike Air Winflo 9-Dd6203-004-8-Black/White-Old Royal-Racer Blue All nike products are meant to deliver high performance, durability and great comfort"
+        },
+        {
+            "id": "119",
+            "name": "Lenovo tab",
+            "description": "Lenovo Tab P11 Plus Tablet (11 inch (27.94 cm), 6 GB, 128 GB",
+            "price": 17500,
+            "color": "#33505a",
+            "image": "tab.png",
+            "fulldescription": "Lenovo Tab P11 Plus Tablet (11 inch (27.94 cm), 6 GB, 128 GB, Wi-Fi+LTE, Voice Calling), Slate Grey with 2K Display, Quad Speakers with Dolby Atmos, 7700 mAH Battery and TUV Certified Eye Protection"
+        },
+        {
+            "id": "120",
+            "name": "Selfie Stick",
+            "description": "WeCool Bluetooth Extendable Selfie Sticks ",
+            "price": 500,
+            "color": "#33505a",
+            "image": "selfstick.png"
+            , "fulldescription": "WeCool Bluetooth Extendable Selfie Sticks with Wireless Remote and Tripod Stand, 3-in-1 Multifunctional Selfie Stick with Tripod Stand Compatible with iPhone/OnePlus/Samsung/Oppo/Vivo and All Phones"
+        },
+        {
+            "id": "121",
+            "name": "Initial Watch",
+            "description": "SENS EDYSON 1 Smartwatch with 1.7 Display, BT Calling",
+            "price": 1500,
+            "color": "#33505a",
+            "image": "selfstick.png","fulldescription":"Wave Call Smart Watch, Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes,HR,SpO2, IP68(Active Black)"
+        },
+        {
+            "id": "122",
+            "name": "Boat rockerz",
+            "description": "boAt Rockerz 330ANC Bluetooth Neckband in Ear Earphones with mic",
+            "price": 2500,
+            "color": "#33505a",
+            "image": "collar.png"
+            ,"fulldescription":"CrossBeats Newly launched shuffl Neckband Environmental Noise Cancelling 13mm Drivers EchoBlast™, Fast Charging with SnapCharge™, Up to 72Hrs Playtime 40ms Low Latency Earphone—Black"
+        }
+
+    ]
+}
