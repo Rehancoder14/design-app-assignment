@@ -238,20 +238,13 @@ class _LoginPageState extends State<LoginPage> {
                               ),
                               ElevatedButton(
                                 onPressed: () {
-                                  log(usercontroller.text);
-                                  if (usercontroller.text.isEmpty) {
-                                    return nologintoast(
-                                        "Please enter the Username");
-                                  } else {
-                                    Navigator.push(
-                                      context,
-                                      MaterialPageRoute(
-                                          builder: (context) => MyHomePage(
-                                                username: "Welcome",
-                                              )),
-                                    ).then((value) => nologintoast(
-                                        "Welcome ${usercontroller.text}"));
-                                  }
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                        builder: (context) => MyHomePage(
+                                              username: "Welcome",
+                                            )),
+                                  );
                                 },
                                 style: loginbuttonstyle,
                                 child: Text(
